@@ -15,7 +15,7 @@ Essa Pokédex foi feita em ReactJS + TypeScript. Inicialmente o boilerplate da 
 - Validação de formulário
 - Validação de dados da API 
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias e ferramentas utilizadas
 - ReactJS
 - TypeScript
 - Vite
