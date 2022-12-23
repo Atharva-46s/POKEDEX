@@ -7,17 +7,17 @@ export const SocialMedia = () => {
   return (
     <C.Container>
       <li>
-        <C.Link href="https://www.linkedin.com/in/carlosdancr/">
+        <C.Link href="https://www.linkedin.com/in/atharva-kandekar-2aa70625b/">
           <LinkedinLogo />
         </C.Link>
       </li>
       <li>
-        <C.Link href="https://github.com/carlosdancr">
+        <C.Link href="https://github.com/Atharva-46s">
           <GithubLogo />
         </C.Link>
       </li>
       <li>
-        <C.Link href="https://t.me/carlosdancr">
+        <C.Link href="https://t.me/Atharva_Kandekar">
           <TelegramLogo />
         </C.Link>
       </li>
