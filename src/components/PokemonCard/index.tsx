@@ -64,7 +64,7 @@ export const PokemonCard = (props: PokemonCardProps) => {
       </C.PokemonFeatures>
       <C.MoreDetailsButton color={color} onClick={handleClick}>
         <BoltIcon />
-        Mais Detalhes
+        More Details
       </C.MoreDetailsButton>
     </C.Container>
   );
